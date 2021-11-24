@@ -1,3 +1,7 @@
+# 이재현
+
+# 11월 24일
+
 # 11월 17일
 npx create-react-markdown-deitor<br>
 설치 npm install remarkable<br>
